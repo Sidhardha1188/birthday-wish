@@ -12,10 +12,10 @@ function Gallery({ isActive }) {
 
   const photos = [
     { src: "/images/p1.jpeg", alt: "Memory 1" },
-    { src: "/images/p2.jpeg", alt: "Memory 2" },
+    { src: "/images/p2.jpg", alt: "Memory 2" },
     { src: "/images/p3.jpeg", alt: "Memory 3" },
-    { src: "/images/p4.jpeg", alt: "Memory 4" },
-    { src: "/images/p5.jpeg", alt: "Memory 5" },
+    { src: "/images/p4.jpg", alt: "Memory 4" },
+    { src: "/images/p5.jpg", alt: "Memory 5" },
     { src: "/images/p6.jpeg", alt: "Memory 6" },
   ];
 
